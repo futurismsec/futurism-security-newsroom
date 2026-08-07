@@ -31,7 +31,7 @@ This repository houses editorial content for **[Futurism Security](https://futur
 | 🏷️ **Trending topics** | AI agent hacking / agentic AI risk (Claude/Anthropic) · Cisco zero-day |
 | 🔗 **Linked — existing post** | [Agentic AI in Cybersecurity](https://futurismsecurity.com/blog/agentic-ai-in-cybersecurity) |
 | 🔗 **Linked — service page** | [AI Security Assessment](https://futurismsecurity.com/services/ai-security-assessment) |
-| 📤 **Publish target** | [when ai agents go rouge what-the?] (https://futurismsecurity.substack.com/p/when-ai-agents-go-rogue-what-the?r=8s78gn) |
+| 🔗 **Linked — service page** | [when ai agents go rouge what-the?] (https://futurismsecurity.substack.com/p/when-ai-agents-go-rogue-what-the?r=8s78gn) |
 
 ---
 
