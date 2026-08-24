@@ -1,7 +1,7 @@
 # futurism-security-newsroom
 <div align="center">
 
-# 🛡️ Futurism Security — Blog Content Repository
+# 🛡️ Futurism Security — 
 
 **AI Security Insights · Agentic AI Risk · Cybersecurity Intelligence**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 About
+
 
 This repository houses editorial content for **[Futurism Security](https://futurismsecurity.com)** — covering emerging threats in AI security, agentic AI risk, and enterprise cybersecurity. Content is authored for direct publishing to the Futurism Security blog (Blogger).
 
@@ -34,40 +34,11 @@ This repository houses editorial content for **[Futurism Security](https://futur
 | 🔗 **Linked — service page** | [when ai agents go rouge what-the?] (https://futurismsecurity.substack.com/p/when-ai-agents-go-rogue-what-the?r=8s78gn) |
 
 ---
+ [**Substack**](https://futurismsecurity.substack.com/p/identity-is-the-new-perimeter-and?r=8s78gn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-## 📁 Repo Structure
 
-```
-.
-├── README.md
-├── posts/
-│   └── ai-agent-hacking-cisco-zeroday.html   # Blogger-ready HTML post
-└── meta/
-    ├── title-tag.txt
-    ├── meta-description.txt
-    ├── alt-text.txt
-    └── tags.txt
-```
 
----
 
-## 🏷️ Metadata
-
-| Field | Value |
-|---|---|
-| **Title tag** | `AI Agents Are Hacking Networks — Is Your Cisco Gear Ready?` |
-| **Alt text** | `AI agent hacking network security concept with Cisco firewall and Claude AI icons representing agentic AI cyberattack risk` |
-| **Tags** | `Agentic AI` `AI Security` `Cisco` `Zero-Day Vulnerability` `Anthropic` `Threat Intelligence` `Network Security` |
-
----
-
-## 🚀 Publishing Steps
-
-1. Open `posts/ai-agent-hacking-cisco-zeroday.html`
-2. In Blogger, create a new post and switch the editor to **HTML view** (not Compose)
-3. Paste the file contents in
-4. Add the title tag, meta description, and alt text from `meta/` to the post's SEO settings and featured image
-5. Publish ✅
 
 ---
 
